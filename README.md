@@ -65,14 +65,6 @@ Seu IMC é de 24.69 - Peso Normal
 - Linguagem: **C#**
 - Framework: **.NET**
 
-## Como Executar o Projeto
-
-1. Copie o código para um arquivo `.cs` (ex.: `IMC.cs`).
-
-2. Compile o código usando o compilador `csc` ou execute diretamente em uma IDE como **Visual Studio**.
-
-3. Execute o programa e insira os valores de peso e altura.
-
 ## Melhorias Futuras
 
 - Receber os dados do usuário via entrada no console.
